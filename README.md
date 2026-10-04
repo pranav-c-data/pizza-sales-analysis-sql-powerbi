@@ -44,7 +44,7 @@ The analysis focuses on identifying:
 
 ---
 
-## 📊 Key KPIs
+## 📌 Key KPIs
 
 | KPI | Value |
 |---|---:|
