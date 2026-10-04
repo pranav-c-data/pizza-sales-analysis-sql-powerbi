@@ -46,6 +46,8 @@ The analysis focuses on identifying:
 
 ## 📌 Key KPIs
 
+The dashboard provides the following key performance indicators:
+
 | KPI | Value |
 |---|---:|
 | Total Revenue | 817.86K |
