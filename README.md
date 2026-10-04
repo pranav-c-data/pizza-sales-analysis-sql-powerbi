@@ -159,18 +159,20 @@ The SQL analysis includes queries for:
 - Bottom 5 Pizzas by Quantity
 - Bottom 5 Pizzas by Total Orders
 
-### SQL Concepts Used
+### 🔹 SQL Concepts Used
 
 - `SELECT`
-- `WHERE`
+- `FROM`
 - `GROUP BY`
 - `ORDER BY`
 - Aggregate Functions
 - `SUM()`
 - `COUNT()`
-- `AVG()`
-- Date Functions
-- `CASE`
+- `CAST()`
+- Filtering
+- Data Aggregation
+- Date-Based Analysis
+- Sorting and Ranking
 
 ### 📑 SQL Query Documentation
 
