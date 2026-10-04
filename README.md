@@ -190,7 +190,7 @@ SQL was used as part of the data analysis process to extract and summarize sales
 
 ---
 
-## 🎯 Project Type
+## 👤 Project Type
 
 **Data Analytics / Business Intelligence**
 
