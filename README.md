@@ -26,7 +26,7 @@ The analysis focuses on identifying:
 
 ---
 
-## ❓ Key Business Questions
+## 🔎 Key Business Questions
 
 1. What is the total revenue generated from pizza sales?
 2. How many orders and pizzas were sold?
