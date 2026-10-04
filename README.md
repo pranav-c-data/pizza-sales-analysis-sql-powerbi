@@ -76,6 +76,8 @@ The **Home** page provides an overall view of pizza sales performance.
 - Total Pizzas Sold by Category
 - Pizza Category and Date Filters
 
+![Pizza Sales Overview Dashboard](Dashboard/sales_overview.png)
+
 ### 2. Best & Worst Sellers
 
 The **Best/Worst Sellers** page focuses on individual pizza performance.
@@ -91,6 +93,8 @@ The **Best/Worst Sellers** page focuses on individual pizza performance.
 - Bottom 5 Pizzas by Revenue
 - Bottom 5 Pizzas by Quantity
 - Bottom 5 Pizzas by Total Orders
+
+![Pizza Best & Worst Sellers Dashboard](Dashboard/best_worst_sellers.png)
 
 ---
 
