@@ -187,3 +187,13 @@ SQL was used as part of the data analysis process to extract and summarize sales
 - **DAX** — KPI and analytical measures
 - **Power Query** — Data transformation
 - **GitHub** — Project documentation and portfolio management
+
+---
+
+## 🎯 Project Type
+
+**Data Analytics / Business Intelligence**
+
+**Domain:** Food & Restaurant Sales Analytics
+
+**Skills:** SQL • Power BI • DAX • Data Analysis • Data Visualization
