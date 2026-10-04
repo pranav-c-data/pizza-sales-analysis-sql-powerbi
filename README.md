@@ -139,21 +139,25 @@ The analysis can help management:
 
 ## 🗄️ SQL Analysis
 
-SQL was used as part of the data analysis process to extract and summarize sales information.
+SQL was used to query and analyze the pizza sales data before developing the Power BI dashboard.
 
-### SQL Analysis Included
+The SQL analysis includes queries for:
 
-- Data exploration
-- Revenue analysis
-- Order analysis
-- Pizza quantity analysis
-- Product performance analysis
-- Sales analysis by category
-- Sales analysis by pizza size
-- Daily sales/order analysis
-- Monthly sales/order analysis
-- Top and bottom product analysis
-- Aggregation of business metrics
+- Total Revenue
+- Total Orders
+- Total Pizzas Sold
+- Average Order Value
+- Average Pizzas per Order
+- Daily Order Trends
+- Monthly Order Trends
+- Sales by Pizza Category
+- Sales by Pizza Size
+- Top 5 Pizzas by Revenue
+- Top 5 Pizzas by Quantity
+- Top 5 Pizzas by Total Orders
+- Bottom 5 Pizzas by Revenue
+- Bottom 5 Pizzas by Quantity
+- Bottom 5 Pizzas by Total Orders
 
 ### SQL Concepts Used
 
@@ -167,6 +171,12 @@ SQL was used as part of the data analysis process to extract and summarize sales
 - `AVG()`
 - Date Functions
 - `CASE`
+
+### 📑 SQL Query Documentation
+
+The SQL queries and their corresponding results are documented through screenshots in the PDF below.
+
+**[View SQL Query Documentation](SQL/Pizza_Sales_SQL_Analysis.pdf)**
 
 ---
 
